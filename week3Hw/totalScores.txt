@@ -1,0 +1,5 @@
+Test score 1: 95.0
+Test score 2: 76.0
+Test score 3: 54.0
+Test score 4: 39.0
+The total test scores are:  264.00
