@@ -1,0 +1,15 @@
+The 1st number is 4
+The 2nd number is 7
+The 3rd number is 19
+The avg number is 10.0
+The total number is 30
+The 1st number is 7
+The 2nd number is 23
+The 3rd number is 76
+The avg number is 35.333333333333336
+The total number is 106
+The 1st number is 8
+The 2nd number is 12
+The 3rd number is 98
+The avg number is 39.333333333333336
+The total number is 118

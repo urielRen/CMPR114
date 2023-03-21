@@ -1,0 +1,7 @@
+
+Read from file:
+Full name: Uriel Renteria
+Midterm:  97
+Final:  95
+Total score:  192
+Average score:  96.00	Letter grade: A

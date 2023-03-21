@@ -1,0 +1,6 @@
+
+Number 1: 1
+Number 2: 2
+Number 3: 3
+Total: 6
+Average:  2
