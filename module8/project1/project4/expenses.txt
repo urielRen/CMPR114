@@ -1,0 +1,5 @@
+Rent expense: $ 1234.54
+Gas expense: $ 123.34
+Food expense: $ 234.54
+Clothing expense: $ 345.34
+Car payment expense: $ 456.34
